@@ -1,1 +1,1 @@
-# FSM
+Moore machine that detects the 4-bit input 1001. The simulations matches the expected results. After I is equal to exactly 1, 0, 0, 1 does F become equal to 1. If any other input is seen, F remains 0. When the reset button is pressed, the sequence detector restarts.
